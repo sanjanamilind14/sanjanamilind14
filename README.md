@@ -1,10 +1,159 @@
-<h1 align="center">Hi 👋, I'm Sanjana Milind</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjana milind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana milind" height="30" width="40" /></a>
+# ✨ Hey, I'm Sanjana Milind
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Firebase+Enthusiast;UI%2FUX+Lover;Always+Learning+Something+New+🚀" />
+
+<p>
+Building beautiful, scalable and user-focused web experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=sanjanamilind14&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌸 About Me
+
+```yaml
+Name: Sanjana Milind
+Location: India 🇮🇳
+Role: Frontend Developer
+Currently Learning:
+  - Next.js
+  - Firebase
+  - TypeScript
+  - AI Assisted Development
+
+Interests:
+  - UI/UX Design
+  - Full Stack Development
+  - Open Source
+  - Building Beautiful Products
+
+Fun Fact:
+  "I love turning ideas into beautiful interfaces."
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,sass,bootstrap"/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,npm"/>
+
+</div>
+
+---
+
+# ⚡ What I Love Building
+
+✨ Responsive Websites
+
+🎨 Beautiful UI/UX
+
+🔥 Firebase Applications
+
+📱 Modern React Apps
+
+⚙️ Next.js Projects
+
+🤖 AI Powered Interfaces
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjanamilind14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamilind14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanamilind14&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjanamilind14&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanamilind14&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+> **"Great products aren't built by writing more code. They're built by solving real problems beautifully."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=Happy+Coding!+🚀;Let's+Build+Something+Amazing!;Thanks+for+Stopping+By+💜"/>
+
+</div>
