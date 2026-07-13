@@ -2,8 +2,6 @@
 
 # ✨ Hey, I'm Sanjana Milind
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Firebase+Enthusiast;UI%2FUX+Lover;Always+Learning+Something+New+🚀" />
-
 <p>
 Building beautiful, scalable and user-focused web experiences.
 </p>
@@ -80,49 +78,12 @@ Fun Fact:
 
 ---
 
-# ⚡ What I Love Building
-
-✨ Responsive Websites
-
-🎨 Beautiful UI/UX
-
-🔥 Firebase Applications
-
-📱 Modern React Apps
-
-⚙️ Next.js Projects
-
-🤖 AI Powered Interfaces
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjanamilind14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamilind14&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanamilind14&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanamilind14&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
