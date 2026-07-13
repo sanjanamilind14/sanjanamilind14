@@ -8,8 +8,6 @@
 Building beautiful, scalable and user-focused web experiences.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sanjanamilind14&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -42,15 +40,15 @@ Fun Fact:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sanjana-milind-980291178/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://sanjana-portfolio-sigma-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: sanjanamilind14@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -130,15 +128,6 @@ Fun Fact:
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanamilind14&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 💭 Developer Quote
 
